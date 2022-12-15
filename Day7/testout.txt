@@ -1,0 +1,11 @@
+[CD "/",
+LS [Dir "a",File 14848514 "b.txt",File 8504156 "c.dat",Dir "d"],
+CD "a",
+LS [Dir "e",File 29116 "f",File 2557 "g",File 62596 "h.lst"],
+CD "e",
+LS [File 584 "i"],
+CD "..",
+CD "..",
+CD "d",
+LS [File 4060174 "j",File 8033020 "d.log",File 5626152 "d.ext",File 7214296 "k"]
+]
